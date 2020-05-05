@@ -1,5 +1,5 @@
 {
-  "name": "passport-oauth2",
+  "name": "passport-bitpod-oauth2",
   "version": "1.5.0",
   "description": "OAuth 2.0 authentication strategy for Passport.",
   "keywords": [
@@ -13,16 +13,16 @@
     "oauth2"
   ],
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "name": "Sukant Gujar",
+    "email": "sukant@bitpod.io",
+    "url": "https://bitpod.io"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-oauth2.git"
+    "url": "git://github.com/bitpod-io/passport-oauth2.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-oauth2/issues"
+    "url": "http://github.com/bitpod-io/passport-oauth2/issues"
   },
   "license": "MIT",
   "licenses": [
