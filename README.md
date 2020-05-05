@@ -1,4 +1,6 @@
-# passport-oauth2
+# passport-bitpod-oauth2
+
+Fork of passport-oauth2
 
 General-purpose OAuth 2.0 authentication strategy for [Passport](http://passportjs.org/).
 
