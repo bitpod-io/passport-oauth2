@@ -17,8 +17,8 @@ describe('OAuth2Strategy', function() {
           clientSecret: 'secret'
         }, function() {});
     
-      it('should be named oauth2', function() {
-        expect(strategy.name).to.equal('oauth2');
+      it('should be named bitpod', function() {
+        expect(strategy.name).to.equal('bitpod');
       });
     }); // with normal options
     
